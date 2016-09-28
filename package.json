@@ -1,0 +1,31 @@
+{
+  "name": "react-md-loader",
+  "version": "1.0.0",
+  "description": "Converts markdown files to a React Stateless Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewei/react-md-loader.git"
+  },
+  "keywords": [
+    "react",
+    "markdown",
+    "loader",
+    "webpack"
+  ],
+  "author": "thewei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewei/react-md-loader/issues"
+  },
+  "homepage": "https://github.com/thewei/react-md-loader#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "front-matter": "^2.1.0",
+    "prismjs": "^1.5.1",
+    "remarkable": "^1.7.0"
+  }
+}
