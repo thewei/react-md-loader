@@ -1,6 +1,6 @@
 {
   "name": "react-md-loader",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Converts markdown files to a React Stateless Component",
   "main": "index.js",
   "scripts": {
